@@ -1,3 +1,14 @@
+Light
+Light Italic
+Regular
+Regular Italic
+Semi-Bold
+Semi-Bold Italic
+Bold
+Bold Italic
+Extra-Bold
+Extra-Bold Italic
+
 # Portfolio
 #HOME PAGE
 <i class="fab fa-linkedin"></i>

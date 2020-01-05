@@ -1,0 +1,224 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+	
+.menu {
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 60px;   
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:black
+   
+}
+
+a {
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: black;
+  }
+
+a.nav-item {
+    color: #5271ff;
+}
+
+a.nav-item:hover {
+    color:  black;
+}
+
+nav a{
+    color:#5271ff;
+    text-decoration-line: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+}
+.intro {
+
+    height: 500px;  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    background-color: #ebeae7;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+
+
+.myface {
+    
+    height: 500px;
+    float: left;
+    padding-bottom: 0%;
+   
+
+}
+
+.text{
+    
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    display: block;
+}
+
+.hello{
+    font-size: 32px;
+
+}
+
+.title{
+    font-size: 28px;
+    
+}
+
+.graduated{
+    font-size: 20px;
+}
+
+.about {
+
+    height: 500px;  
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.about-1{
+text-align: center;
+}
+
+.about-2{
+    text-align: center;
+    font-size: 35px;
+    opacity: 0.2;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+
+}
+
+.education{
+  width:25%;
+  height:0;
+  padding-top:25%;
+  position:relative;
+  background: #ebeae7;
+}
+
+.prof-experience{
+  width:25%;
+  height:0;
+  padding-top:25%;
+  position:relative;
+  background: #5271ff;
+}
+
+.interests{
+  width:25%;
+  height:0;
+  padding-top:25%;
+  position:relative;
+  background: #ebeae7;
+}
+
+.icons-title{
+font-style: ;
+}
+
+.about-text{
+    font-size: 10px;
+}
+
+.experiences{
+    height: 700px;  
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    background-color: #ebeae7;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.title-experiences{
+
+}
+
+.experiences-1{
+    text-align: center;
+}
+
+.experiences-2{
+    text-align: center;
+    font-size: 35px;
+    opacity: 0.2;
+}
+
+.photos-column-1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.photos-column-2{
+    display: flex;
+    justify-content: center;
+}
+.photo-1 {
+    display: flex;
+    height: 250px;
+}
+.photo-2 {
+    display: flex;
+
+    height: 250px;
+}
+.photo-3{
+    display: flex;
+    
+    height: 250px;
+}
+.photo-4 {
+    display: flex;
+   
+    height: 250px;
+}
+.photo-5 {
+    display: flex;
+    
+    height: 250px;
+}
+.photo-6{
+    display: flex;
+  
+    height: 250px;
+}
+
+
+
+
