@@ -1,0 +1,85 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+	
+.menu {
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 60px;   
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#5271ff;
+}
+a {
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: white;
+  }
+
+a.nav-item {
+    color: white;
+}
+
+a.nav-item:hover {
+    color:  white;
+}
+
+nav a{
+    color:white;
+    text-decoration-line: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+}
+.contact {
+
+    height: 500px;  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    background-color: #5271ff;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+
+
+.phone-hands {
+    
+    height: 800px;
+    float: left;
+    padding-bottom: 0%;
+   
+
+}
+
+.text{
+    
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+}
+
+
+.title{
+    font-size: 28px;
+    color: white
+    
+}
+
+.details{
+    font-size: 20px;
+    color: white
+}
