@@ -12,9 +12,10 @@
     flex-direction:row;
     justify-content: space-between;
     align-items: center;
-    background-color:black
+    background-color:#ebeae7
    
 }
+
 
 a {
     text-decoration: none;
@@ -104,6 +105,15 @@ nav a{
 
 }
 
+.fa-graduation-cap{
+    color:#5271ff ;
+}
+.fa-briefcase{
+    color: white;
+}
+.fa-thumbs-up{
+    color:#5271ff;  
+}
 .about-1{
 text-align: center;
 }
@@ -133,6 +143,7 @@ text-align: center;
   padding-top:25%;
   position:relative;
   background: #5271ff;
+  color: greenyellow;
 }
 
 .interests{
@@ -165,10 +176,6 @@ font-style: ;
 
 }
 
-.title-experiences{
-
-}
-
 .experiences-1{
     text-align: center;
 }
@@ -195,30 +202,106 @@ font-style: ;
 }
 .photo-2 {
     display: flex;
-
     height: 250px;
 }
 .photo-3{
     display: flex;
-    
     height: 250px;
 }
 .photo-4 {
     display: flex;
-   
     height: 250px;
 }
 .photo-5 {
     display: flex;
-    
     height: 250px;
 }
 .photo-6{
     display: flex;
-  
     height: 250px;
 }
 
+.small{
+    height: 50px;  
+    padding-bottom: 1%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif; 
+    text-align: center; 
+}
 
+.sentence{
+    color: black;
+    font-style: italic;
+}
 
+.writer{
+   color: #5271ff ;
+}
 
+.interest{ 
+    
+    height: 500px;  
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    background-color: #5271ff;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.interest-1{
+    text-align: center;
+    color: white;
+}
+
+.interest-2{
+    text-align: center;
+    font-size: 35px;
+    opacity: 0.2; 
+    color: white;
+}
+
+.icon-interest{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+    margin-right: 50%;
+} 
+
+.text-interest{
+background-color: white;
+display: flex;
+height: 100px
+
+}
+
+.titles-interest{
+    color: #5271ff;
+   
+}
+
+.footer{
+    background-color:#ebeae7;
+    text color:#5271ff ;
+    height: 50px;  
+    flex-direction: row;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+a.name-footer {
+    text-decoration: none;
+    color: #5271ff;
+  }
+  
+a.name-footer:hover {
+    color: black;
+  }
