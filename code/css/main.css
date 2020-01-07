@@ -82,11 +82,16 @@ nav a{
 
 .title{
     font-size: 28px;
+    color: #5271ff;
+    line-height: 25pt;
     
 }
 
 .graduated{
-    font-size: 20px;
+    font-size: 15px;
+    line-height: 25pt;
+    font-weight: lighter;
+
 }
 
 .about {
@@ -104,8 +109,12 @@ nav a{
 
 }
 
+.text-center{
+text-align: center;
+}
 .fa-graduation-cap{
-    color:#5271ff ;
+    color:#5271ff;
+    
 }
 .fa-briefcase{
     color: white;
@@ -114,14 +123,12 @@ nav a{
     color:#5271ff;  
 }
 .about-1{
+color: black;
+font-size: 30px;
 text-align: center;
+text-shadow: 7px 7px 6px grey;
 }
 
-.about-2{
-    text-align: center;
-    font-size: 35px;
-    opacity: 0.2;
-}
 .icons{
     display: flex;
     justify-content: center;
@@ -129,36 +136,57 @@ text-align: center;
 }
 
 .education{
-  width:25%;
-  height:0;
-  padding-top:25%;
-  position:relative;
-  background: #ebeae7;
+box-sizing: content-box;
+width: 300px;
+height: 300px;
+border: solid#ebeae7 10px;
+background-color: #ebeae7;
+padding: 5px;
+color:#5B6DCD;
+justify-content: center;
+padding-top: 10%;
+
 }
 
 .prof-experience{
-  width:25%;
-  height:0;
-  padding-top:25%;
-  position:relative;
-  background: #5271ff;
-  color: greenyellow;
+box-sizing: content-box;
+width: 300px;
+height: 300px;
+border: solid #5B6DCD 10px;
+background-color: #5B6DCD ;
+padding: 5px;
+color: white;
+font-weight: lighter;
+padding-top: 10%;
+ 
 }
 
 .interests{
-  width:25%;
-  height:0;
-  padding-top:25%;
-  position:relative;
-  background: #ebeae7;
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    border: solid#ebeae7 10px;
+    background-color: #ebeae7;
+    padding: 5px;
+    color:#5B6DCD;
+    font-weight: lighter;
+    padding-top: 10%;
 }
 
 .icons-title{
-font-style: ;
+font-size: 25px;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+line-height: 20pt;
+font-weight: lighter;
 }
 
 .about-text{
-    font-size: 10px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 20pt;
+    text-align: center;
+    font-weight: lighter;
 }
 
 .experiences{
@@ -176,14 +204,12 @@ font-style: ;
 }
 
 .experiences-1{
-    text-align: center;
+color: #5271ff ;
+font-size: 30px;
+text-align: center;
+text-shadow: 7px 7px 6px grey;
 }
 
-.experiences-2{
-    text-align: center;
-    font-size: 35px;
-    opacity: 0.2;
-}
 
 .photos-column-1{
     display: flex;
@@ -242,7 +268,7 @@ font-style: ;
 
 .interest{ 
     
-    height: 500px;  
+    height: 450px;  
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
@@ -255,16 +281,12 @@ font-style: ;
 }
 
 .interest-1{
-    text-align: center;
-    color: white;
+color: white;
+font-size: 30px;
+text-align: center;
+text-shadow: 7px 7px 6px white
 }
 
-.interest-2{
-    text-align: center;
-    font-size: 35px;
-    opacity: 0.2; 
-    color: white;
-}
 
 .icon-interest{
     color: white;
@@ -274,16 +296,27 @@ font-style: ;
     margin-right: 50%;
 } 
 
-.text-interest{
-background-color: white;
-display: flex;
-height: 100px
-
+.list-icons{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    list-style-type: none;
+    text-align: right;
+    width: 15em;
 }
 
-.titles-interest{
+.icon{
+    background-repeat: no-repeat;
+    background-position: 100% .4em;
+    padding-right: 2em;
+    margin: 5em 0;
+}
+
+
+.title-interest{
     color: #5271ff;
-   
 }
 
 .footer{

@@ -105,32 +105,32 @@ Web Analytics
 digital analytics
 advertising
 
-HR INTERN
-bolsa de empleo – LA SALLE Barcelona |  sep 2018 - jun 2019
-Contacto directo con alumnos: apoyo en la búsqueda de empleo a estudiantes de Grado y Máster 
-Gestión B2B: Creacion de vínculos profesionales y recomendación de perfiles con talento 
-Administración del CRM: Salesforce 
-Apoyo al Departamento de Servicios a Empresas en La Salle Barcelona
-Administración y tabulación de información en Excel para posterior reporte a dirección
-Administración y organización de contenido
-Prospección de empresas y mercados
+Human Resources Intern
+LA SALLE Barcelona |  sep 2018 - jun 2019
+Direct contact with students: support in the job search for undergraduate and master students
+B2B Management: Creation of professional links and recommendation of talented profiles
+CRM Administration: Salesforce
+Support to the Department of Business Services in La Salle Barcelona
+Administration and tabulation of information in Excel for subsequent report to management
+Administration and content organization
+Business and market prospecting
 
-DIGITAL MARKETING junior and cOMMUNITY MANAGER
-DEPARTMENTo de marketing - FUNTOUR | JUN 2018 - SEP 2018
-Creación de calendario con estrategias y acciones a corto y medio plazo
-Creación de contenido digital para redes sociales y página web de la empresa
-Edición gráfica de contenido a través de Photoshop
-Optimización SEO y SEM de la página web y seguimiento de resultados a través de Google Analytics
-Publicidad mediante Google Ads y Facebook Ads
-Rediseño de la página web de la empresa
+DIGITAL MARKETING junior and COMMUNITY MANAGER
+FUNTOUR | JUN 2018 - SEP 2018
+Creation of a calendar with short and medium term strategies and actions
+Creation of digital content for social networks and the company's website
+Graphical content editing through Photoshop
+SEO and SEM optimization of the website and monitoring of results through Google Analytics
+Advertising through Google Ads and Facebook Ads
+Redesign of the company's website
 
-SPANISH TEACHER - voluntariado
-SOCIAL COMPANY- LINGO FLAMINGO GLASGOW| SEP 2017 - MAY 2018
-Enseñar las bases del idioma español a adultos escoceses con demencia
-Asistencia en el cuidado de adultos con discapacidad mental
-Preparación de actividades lúdicas y formativas
-Planificación semanal del curso en base al nivel de los alumnos
-Creación de sugerencias y mejoras para el programa docente
+SPANISH TEACHER - volunteer program
+LINGO FLAMINGO GLASGOW| SEP 2017 - MAY 2018
+Teach the basics of the Spanish language to Scottish adults with dementia
+Assistance in the care of adults with mental disabilities
+Preparation of recreational and educational activities
+Weekly course planning based on student level
+Creation of suggestions and improvements for the teaching program
 
 CRISP Studio Experience
 (foto)
